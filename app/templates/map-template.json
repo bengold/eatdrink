@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {% for item in restaurants %}
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          {{ item.lon }},
+          {{item.lat }}
+        ]
+      },
+      "properties": {
+        "marker-symbol": "{{ item.symbol }}",
+        "name": "{{ item.name }}",
+        "address": "{{ item.address }}",
+        "phone": "{{ item.phone }}",
+        {% if item.note %}
+        "note": "{{ item.note }}",
+        {% endif %}
+        "url": "{{ item.url }}"
+      }
+    },
+  {% endfor %}
+  ]
+}
