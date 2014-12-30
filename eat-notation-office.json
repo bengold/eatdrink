@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980991,
+          40.675199
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Luke's Lobster",
+        "address": "237 5th Avenue, Brooklyn, NY 11215",
+        "phone": "(347) 457-6855",
+        "href": "http://lukeslobster.com/parkslope/",
+        "note": "Ask the bartender for the password"
+      }
+    },
+  ]
+}
