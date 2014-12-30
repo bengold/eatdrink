@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
+  
     {
       "type": "Feature",
       "geometry": {
@@ -15,10 +16,280 @@
         "name": "Luke's Lobster",
         "address": "237 5th Avenue, Brooklyn, NY 11215",
         "phone": "(347) 457-6855",
-        "href": "http://lukeslobster.com/parkslope/",
-        "note": "Ask the bartender for the password"
+        
+        "url": "http://lukeslobster.com/parkslope/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984026,
+          40.677613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Dinosaur Bar-B-Que",
+        "address": "604 Union Street, Brooklyn, NY 11215",
+        "phone": "(347) 429-7030",
+        
+        "url": "http://www.dinosaurbarbque.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98894,
+          40.674958
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Whole Foods",
+        "address": "214 3rd Street, Brooklyn, NY 11215",
+        "phone": "(718) 907-3622",
+        
+        "url": "http://www.wholefoodsmarket.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98387,
+          40.676627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Oaxaca Taqueria",
+        "address": "250 4th Avenue, Brooklyn, NY 11215",
+        "phone": "(718) 222-1122",
+        
+        "url": "http://www.oaxacatacos.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975152,
+          40.68055
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Bklyn Larder",
+        "address": "228 Flatbush Avenue, Brooklyn, NY 11217",
+        "phone": "(718) 783-1250",
+        
+        "url": "http://www.bklynlarder.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975625,
+          40.680805
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Bark Hot Dogs",
+        "address": "474 Bergen Street, Brooklyn, NY 11217",
+        "phone": "(718) 789-1939",
+        
+        "url": "http://barkhotdogs.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971838,
+          40.675977
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Franny's",
+        "address": "348 Flatbush Avenue, Brooklyn, NY 11217",
+        "phone": "(718) 230-0221",
+        
+        "url": "http://www.frannysbrooklyn.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985878,
+          40.685607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Rucola",
+        "address": "190 Dean Street, Brooklyn, NY 11217",
+        "phone": "(718) 576-3209",
+        
+        "url": "http://www.rucolabrooklyn.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979412,
+          40.678281
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Los Pollitos 2",
+        "address": "148 5th Avenue, Brooklyn, NY 11217",
+        "phone": "(718) 623-9152",
+        
+        "url": ""
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98705,
+          40.687447
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Mile End Delicatessen",
+        "address": "97 Hoyt Street, Brooklyn, NY 11217",
+        "phone": "(718) 852-7510",
+        
+        "url": "http://mileenddeli.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976808,
+          40.682687
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Shake Shack",
+        "address": "170 Flatbush Avenue, Brooklyn, NY 11217",
+        "phone": "(347) 442-7711",
+        
+        "url": "http://www.shakeshack.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982251,
+          40.674259
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Calexico",
+        "address": "278 5th Avenue, Brooklyn, NY 11215",
+        "phone": "(347) 254-7644",
+        
+        "url": "http://calexico.net/location/park-slope"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98,
+          40.676701
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Zito's Sandwich Shoppe",
+        "address": "195 5th Avenue, Brooklyn, NY 11217",
+        "phone": "(718) 857-1950",
+        
+        "url": "http://zitossandwichshoppe.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983956,
+          40.67648
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Pickle Shack",
+        "address": "256 4th Avenue, Brooklyn, NY 11215",
+        "phone": "(347) 763-2127",
+        
+        "note": "never been here. pickle-centric menu",
+        
+        "url": "http://www.pickleshacknyc.com/"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982285,
+          40.674358
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Bonnie's Grill",
+        "address": "278 5th Avenue, Brooklyn, NY 11215",
+        "phone": "(718) 369-9527",
+        
+        "note": "old-school diner",
+        
+        "url": "http://bonniesgrill.com/"
       }
     }
+  
   ]
 }
-
