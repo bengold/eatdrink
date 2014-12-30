@@ -8,7 +8,7 @@
         "type": "Point",
         "coordinates": [
           {{ item.lon }},
-          {{item.lat }}
+          {{ item.lat }}
         ]
       },
       "properties": {
@@ -21,7 +21,7 @@
         {% endif %}
         "url": "{{ item.url }}"
       }
-    },
+    } {% if not loop.last %},{% endif %}
   {% endfor %}
   ]
 }
