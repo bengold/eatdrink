@@ -19,7 +19,7 @@
         
         "url": "http://lukeslobster.com/parkslope/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -38,7 +38,7 @@
         
         "url": "http://www.dinosaurbarbque.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -57,7 +57,7 @@
         
         "url": "http://www.wholefoodsmarket.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -76,7 +76,7 @@
         
         "url": "http://www.oaxacatacos.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -95,7 +95,7 @@
         
         "url": "http://www.bklynlarder.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -114,7 +114,7 @@
         
         "url": "http://barkhotdogs.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -133,7 +133,7 @@
         
         "url": "http://www.frannysbrooklyn.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -152,7 +152,7 @@
         
         "url": "http://www.rucolabrooklyn.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -171,7 +171,7 @@
         
         "url": ""
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -190,7 +190,7 @@
         
         "url": "http://mileenddeli.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -209,7 +209,7 @@
         
         "url": "http://www.shakeshack.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -228,7 +228,7 @@
         
         "url": "http://calexico.net/location/park-slope"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -247,7 +247,7 @@
         
         "url": "http://zitossandwichshoppe.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -268,7 +268,7 @@
         
         "url": "http://www.pickleshacknyc.com/"
       }
-    },
+    } ,
   
     {
       "type": "Feature",
@@ -289,7 +289,26 @@
         
         "url": "http://bonniesgrill.com/"
       }
-    }
+    } ,
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982175,
+          40.679714
+        ]
+      },
+      "properties": {
+        "marker-symbol": "star-stroked",
+        "name": "Threes Brewery",
+        "address": "333 Douglass St, Brooklyn, NY 11217",
+        "phone": "",
+        
+        "url": ""
+      }
+    } 
   
   ]
 }
