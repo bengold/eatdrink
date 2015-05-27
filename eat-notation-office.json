@@ -329,6 +329,27 @@
         
         "url": ""
       }
+    }  ,
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974328,
+          40.675584
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "name": "Banhmigos",
+        "address": "178 Lincoln Pl, Brooklyn, NY 11217",
+        "phone": "(718) 399-3812",
+        
+        "note": "Banh mi",
+        
+        "url": ""
+      }
     } 
   
   ]
